@@ -3,6 +3,6 @@
 
 Para importar lib go-memdb no Projeto
 ```
-go get github.com/hashicorp/ç
+go get github.com/hashicorp/go-memdb
 ```
 
